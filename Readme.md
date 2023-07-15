@@ -7,4 +7,4 @@ Software layout:
 
 Physical layout:
 
-![Physical layout](image.png)
+![Physical layout](layout.png)
