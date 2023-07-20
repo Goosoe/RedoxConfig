@@ -7,7 +7,7 @@
   "layout": "LAYOUT",
   "layers": [
     [
-      "QK_GESC",
+      "KC_ESC",
       "KC_1",
       "KC_2",
       "KC_3",
@@ -46,7 +46,7 @@
       "KC_K",
       "KC_L",
       "KC_SCLN",
-      "KC_QUOT",
+      "KC_MINS",
       "KC_LSFT",
       "KC_Z",
       "KC_X",
@@ -62,7 +62,7 @@
       "KC_COMM",
       "KC_DOT",
       "KC_SLSH",
-      "KC_MINS",
+      "KC_QUOT",
       "KC_LCTL",
       "KC_LGUI",
       "KC_LALT",
