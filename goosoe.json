@@ -67,12 +67,12 @@
       "KC_LGUI",
       "KC_LALT",
       "KC_LALT",
-      "RCTL_T(KC_BSLS)",
+      "KC_RCTL",
       "KC_SPC",
       "KC_BSPC",
       "KC_RSFT",
       "KC_ENT",
-      "KC_RALT",
+      "RALT_T(KC_NUBS)",
       "KC_LEFT",
       "KC_DOWN",
       "KC_UP",
@@ -163,7 +163,7 @@
       "KC_F9",
       "KC_F10",
       "KC_F11",
-      "QK_BOOT",
+      "KC_TRNS",
       "KC_EXLM",
       "KC_AT",
       "KC_PIPE",
@@ -220,7 +220,7 @@
       "KC_P0",
       "KC_PDOT",
       "KC_PENT",
-      "KC_NO"
+      "QK_BOOT"
     ]
   ],
   "author": ""
