@@ -4,12 +4,12 @@ There is a .json file that can be uploaded to QMK Configurator. There is also a 
 # Commands:
 ```
 cd "your/path/to/keymaps"
-qmk json2c layout.json -o keymap.c
+qmk json2c goosoe.json -o keymap.c
 qmk flash
 ```
 
 
- Software layout:
+# Software layout:
 - UK extended (available in Windows and Linux)
 - Colemak UK (https://colemak.com/File:Cmkuk.zip)
 
